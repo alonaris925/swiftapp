@@ -10,7 +10,7 @@
     {
       "AppIcon" : "https://raw.githubusercontent.com/alonaris925/swiftapp/master/pubg.png",
       "AppNamed" : "PUBG MOBILE",
-      "AppURL" : "",
+      "AppURL" : "itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/alonaris925/swiftapp/master/PUBGTwo.plist",
       "AppVersion" : "0.14.5",
       "AppDescration" : "Tesing..."
     }
